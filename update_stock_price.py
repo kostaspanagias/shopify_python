@@ -9,7 +9,7 @@ import pandas as pd
 import requests
 import json
 
-uploadfile = r'C:\materials_upload.xlsx' # Replace with the path of your file
+uploadfile = r'C:\materials_upload.xlsx' # Replace with the path of your file / See the sample file: sample_update_stock_price.xlsx
 
 
 # Read the Excel file
